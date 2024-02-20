@@ -17,8 +17,8 @@ body{
     position: absolute;
     top: 50px;
     left: 25px;
-      animation: mymove 3s infinite;
-     box-shadow: 10px 20px 30px grey;
+    animation: mymove 3s infinite;
+    box-shadow: 10px 20px 30px grey;
 }
 .circle{
 background-color: white;
@@ -28,4 +28,225 @@ border-radius: 50%;
 position: absolute;
 top: 10px;
 left: 25px;
+}
+.opacty{
+    
+    background:lightgray;
+    position: absolute;
+    width: auto;
+    height: auto;
+    color: black;
+    top: 150px;
+    left: 55px;
+    border-radius: 5px;
+}
+.h2{
+    position: absolute;
+    top: 170px;
+    left: 20px;
+}
+.p2{
+    position: absolute;
+    top: 210px;
+    left: 35px;
+}
+.title{
+    position: absolute;
+    top: 170px;
+    left: 40px;
+}
+.div2{
+    background-color: lightgreen;
+    width: 150px;
+    height: 250px;
+    border-radius: 5px;
+    position: absolute;
+    top: 50px;
+    left: 200px;
+    animation: mymove 3s infinite;
+    box-shadow: 10px 20px 30px grey;
+}
+.opacty2{
+    background:lightgray;
+    position: absolute;
+    width: auto;
+    height: auto;
+    color: black;
+    top: 150px;
+    left: 55px;
+    border-radius: 5px;
+}
+.p3{
+    position: absolute;
+    top: 210px;
+    left: 35px;
+}
+.circle2{
+    background-color: white;
+width: 100px;
+height: 100px;
+border-radius: 50%;
+position: absolute;
+top: 10px;
+left: 25px;
+}
+.circle3{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    left: 25px;
+}
+.title2{
+    position: absolute;
+    top: 170px;
+    left: 40px;
+}
+.opacty3{
+    background:lightgray;
+    position: absolute;
+    width: auto;
+    height: auto;
+    color: black;
+    top: 150px;
+    left: 55px;
+    border-radius: 5px;
+}
+.p4{
+    position: absolute;
+    top: 210px;
+    left: 35px;
+}
+.div3{
+    background-color: lightgreen;
+    width: 150px;
+    height: 250px;
+    border-radius: 5px;
+    position: absolute;
+    top: 50px;
+    left: 375px;
+    animation: mymove 3s infinite;
+    box-shadow: 10px 20px 30px grey;
+}
+.opacty4{
+    background:lightgray;
+    position: absolute;
+    width: auto;
+    height: auto;
+    color: black;
+    top: 150px;
+    left: 55px;
+    border-radius: 5px;
+}
+.p5{
+    position: absolute;
+    top: 210px;
+    left: 35px;
+}
+.circle4{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    left: 25px;
+}
+.title3{
+    position: absolute;
+    top: 170px;
+    left: 10px;
+}
+.div4{
+    background-color: pink;
+    width: 150px;
+    height: 250px;
+    border-radius: 5px;
+    position: absolute;
+    top: 50px;
+    left: 550px;
+    animation: mymove 3s infinite;
+    box-shadow: 10px 20px 30px grey;
+}
+.p6{
+    position: absolute;
+    top: 210px;
+    left: 35px;
+}
+.circle5{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    left: 25px;
+}
+.opacty5{
+    background:lightgray;
+    position: absolute;
+    width: auto;
+    height: auto;
+    color: black;
+    top: 150px;
+    left: 55px;
+    border-radius: 5px;
+}
+.title4{
+    position: absolute;
+    top: 170px;
+    left: 10px;
+}
+.div5{
+    background-color: pink;
+    width: 150px;
+    height: 250px;
+    border-radius: 5px;
+    position: absolute;
+    top: 50px;
+    left: 725px;
+    animation: mymove 3s infinite;
+    box-shadow: 10px 20px 30px grey;
+}
+.p7{
+    position: absolute;
+    top: 210px;
+    left: 35px;  
+}
+.circle6{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    left: 25px;  
+}
+.opacty6{
+    background:lightgray;
+    position: absolute;
+    width: auto;
+    height: auto;
+    color: black;
+    top: 150px;
+    left: 55px;
+    border-radius: 5px;
+}
+.title5{
+    position: absolute;
+    top: 170px;
+    left: 30px;
+}
+.div6{
+    background-color: pink;
+    width: 150px;
+    height: 250px;
+    border-radius: 5px;
+    position: absolute;
+    top: 50px;
+    left: 900px;
+    animation: mymove 3s infinite;
+    box-shadow: 10px 20px 30px grey;
 }
